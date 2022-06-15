@@ -1,5 +1,5 @@
 # SUPER BIPAP Team | SUPER Tools
-** Developed By <a href="https://web.facebook.com/groups/superbipapcyberteam">SUPER BIPAP Team</a><br>
+** Developed By <a href="https://web.facebook.com/groups/superbipapcyberteam" target="_blank">SUPER BIPAP Team</a><br>
 ** This is a combined tools. It is a collection of many tools.
 
 # Installation Command 
@@ -18,6 +18,6 @@
 </ul>
 
 # Tools Username and Password
-For Username and Password, contact <a href="https://web.facebook.com/superbipapteam">Facebook</a> or <a href="https://t.me/super_bipap_team">Telegram</a> or <a href="https://web.facebook.com/boltushting/">Profile</a>.
+For Username and Password, contact <a href="https://web.facebook.com/superbipapteam" target="_blank">Facebook</a> or <a href="https://t.me/super_bipap_team" target="_blank">Telegram</a> or <a href="https://www.facebook.com/boltushting/" target="_blank">Profile</a>.
 
 # Don't Try to Copy or Edit This Tool Without Our Permission.
