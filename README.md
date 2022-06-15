@@ -12,6 +12,7 @@
   <li>pip2 install requests</li>
   <li>pip2 install mechanize</li>
   <li>pkg install ruby</li>
+  <li>pkg install openssl</li>
   <li>gem install lolcat</li>
   <li>rm -rf sbt</li>
   <li>git clone https://github.com/superbipapteam/sbt</li>
