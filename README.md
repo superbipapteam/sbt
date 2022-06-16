@@ -3,6 +3,7 @@
 ** This is a combined tools. It is a collection of many tools.
 
 # Installation Command 
+''''
 <ul>
   <li>pkg update</li>
   <li>pkg upgrade</li>
@@ -19,6 +20,7 @@
   <li>cd sbt</li>
   <li>python sbt.py</li>
 </ul>
+''''
 
 # Tools Username and Password
 <b>Tools Username:</b>SUPER BIPAP<br>
