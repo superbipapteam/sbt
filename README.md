@@ -25,10 +25,3 @@
 <b>Tools Password:</b>SBCT
 
 # Don't Try to Copy or Edit This Tool Without Our Permission.
-# shortcommand
-'''
-
-This is demo shortcut
-
-
-'''
