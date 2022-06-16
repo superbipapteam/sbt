@@ -21,6 +21,7 @@
 </ul>
 
 # Tools Username and Password
-For Username and Password, contact <a href="https://web.facebook.com/superbipapteam" target="_blank">Facebook</a> or <a href="https://t.me/super_bipap_team" target="_blank">Telegram</a> or <a href="https://www.facebook.com/boltushting/" target="_blank">Profile</a>.
+<b>Tools Username:</b>SUPER BIPAP<br>
+<b>Tools Password:</b>SBCT
 
 # Don't Try to Copy or Edit This Tool Without Our Permission.
