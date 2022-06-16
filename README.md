@@ -18,7 +18,6 @@ rm -rf sbt
 git clone https://github.com/superbipapteam/sbt
 cd sbt
 python sbt.py
-
 ````
 
 # Tools Username and Password
